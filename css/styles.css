@@ -57,11 +57,13 @@ a {
 .first-section,
 .page-footer {
     background: #2e2f42;
+    color: #404bbf;
 }
 
 .first-section-text {
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.07;
+    text-align: center;
     letter-spacing: 0.02em;
     color: #fff;
 }
@@ -78,6 +80,7 @@ a {
 .first-section-button:hover,
 .first-section-button:focus {
    background: #404bbf;
+   cursor: pointer;
 }
 
 .second-section-title {
@@ -102,12 +105,15 @@ a {
 .fourth-section-title { 
     font-size: 36px;
     line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .third-section-list {
-    background: #fff;
+    background-color: #FFFFFF;
 }
  
 .third-section-name {
@@ -139,10 +145,14 @@ a {
     line-height: 1.2;
     letter-spacing: 0.02em;
     color: #2e2f42;
+    line-height: 1.5
+    
 }
 
 .footer-text {
     color: #f4f4fd;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 
