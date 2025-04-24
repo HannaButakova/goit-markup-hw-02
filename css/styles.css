@@ -68,7 +68,7 @@ a {
   text-align: center;
   color: #fff;
 }
-.hero-image-button {
+button {
   background-color: #4d5ae5;
   font-weight: 500;
   font-size: 16px;
@@ -77,7 +77,7 @@ a {
   color: #fff;
 }
 
-.hero-image-button:hover,
-.hero-image-button:focus {
+button:hover,
+button:focus {
   background-color: #404bbf;
 }
