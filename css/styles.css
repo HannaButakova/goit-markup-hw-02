@@ -83,7 +83,8 @@ button:focus {
   background-color: #404bbf;
 }
 
-.one-title {
+.one-title,
+.project-name {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -100,7 +101,8 @@ button:focus {
   background-color: #f4f4fd;
 }
 
-.two-title {
+.two-title,
+.three-title {
   font-size: 36px;
   line-height: 1.11;
   letter-spacing: 0.02em;
@@ -109,7 +111,8 @@ button:focus {
   color: #2e2f42;
 }
 
-.two-item {
+.two-item,
+.three-item {
   background-color: #fff;
 }
 .name {
@@ -125,4 +128,10 @@ button:focus {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+}
+
+.project-type {
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
 }
